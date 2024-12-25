@@ -57,7 +57,7 @@ Follow these steps to set up the project locally:
 ## 📂 Project Structure
 
 Here's an overview of the file structure:
-
+```bash
 📂 project-root
 ├── index.php          # Home Page
 ├── login.php          # Login Page
@@ -67,6 +67,7 @@ Here's an overview of the file structure:
 ├── style.css          # Custom CSS for styling
 ├── functions.php      # Common PHP functions
 ├── database.php       # Database connection script
+```
 
 ---
 
