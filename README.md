@@ -1,4 +1,4 @@
-# 🌟 Stagiaire Web Platform 🌟
+# Stagiaire Web Platform
 
 Welcome to the **Stagiaire Web Platform**! This is a collaborative project developed by **[Your Name]** and **Ibrahim** as part of our studies. The platform allows interns to manage their accounts with features like user registration, login, logout, and a personalized dashboard.
 
@@ -51,3 +51,50 @@ Follow these steps to set up the project locally:
 4. Run the application:
 
     Open your browser and visit: http://localhost/stagiaire-web-platform/.
+
+---
+
+## 📂 Project Structure
+
+Here's an overview of the file structure:
+
+📂 project-root
+├── index.php          # Home Page
+├── login.php          # Login Page
+├── register.php       # Registration Page
+├── logout.php         # Logout Script
+├── dashboard.php      # User Dashboard
+├── style.css          # Custom CSS for styling
+├── functions.php      # Common PHP functions
+├── database.php       # Database connection script
+
+---
+
+## 🤝 Contribution Guidelines
+
+We ❤️ contributions! To get started:
+
+1. Fork this repository.
+2. **Create a new branch for your changes:**
+```bash
+    git checkout -b feature-name
+```
+3. **Make your changes and commit:**
+```bash
+    git commit -m "Added new feature"
+```
+
+---
+## ✨ Acknowledgments
+
+A big thanks to Ibrahim, my partner, for collaborating on this project! This platform was built as a hands-on exercise in full-stack development using PHP.
+
+---
+## 📧 Contact
+
+Have questions or suggestions? Feel free to reach out:
+
+    📧 Email: bilalajaha@gmail.com
+    🌐 GitHub: <a href="https://github.com/Voxold">Bilal Ajaha Github</a>
+    🌐 Linkedin: <a href="https://www.linkedin.com/in/bilalajaha/">Bilal Ajaha Linkedin</a>
+
