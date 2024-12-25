@@ -95,7 +95,7 @@ A big thanks to Ibrahim, my partner, for collaborating on this project! This pla
 
 Have questions or suggestions? Feel free to reach out:
 
-    📧 Email: bilalajaha@gmail.com
-    🌐 GitHub: <a href="https://github.com/Voxold">Bilal Ajaha Github</a>
-    🌐 Linkedin: <a href="https://www.linkedin.com/in/bilalajaha/">Bilal Ajaha Linkedin</a>
+📧 Email: bilalajaha@gmail.com
+🌐 GitHub: <a href="https://github.com/Voxold">Bilal Ajaha Github</a>
+🌐 Linkedin: <a href="https://www.linkedin.com/in/bilalajaha/">Bilal Ajaha Linkedin</a>
 
